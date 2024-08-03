@@ -1,1 +1,1 @@
-Currency Converter - React
+<h1> Currency Converter - React </h1>
